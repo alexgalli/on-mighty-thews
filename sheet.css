@@ -6,13 +6,12 @@
 .sheet-thews {
   position: relative;
 
-  background-image: url(https://raw.githubusercontent.com/alexgalli/on-mighty-thews/main/sheet/thews-2.png);
+  background-image: url(https://raw.githubusercontent.com/alexgalli/on-mighty-thews/main/sheet/thews-3.png);
   background-color: white;
   background-repeat: no-repeat;
   background-size: 100%;
   height: 630px;
   width: 840px;
-  /* border: 1px solid black; */
 }
 
 .sheet-thews input, .sheet-thews select, .sheet-thews textarea, .sheet-thews button {
@@ -42,7 +41,7 @@
 }
 
 .sheet-header    { top: 3px; }
-.sheet-text      { top: 69px; }
+.sheet-text      { top: 82px; }
 
 .sheet-row1      { top: 150px; }
 .sheet-row2      { top: 306px; }
