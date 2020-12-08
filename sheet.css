@@ -6,7 +6,7 @@
 .sheet-thews {
   position: relative;
 
-  background-image: url(https://raw.githubusercontent.com/alexgalli/on-mighty-thews/main/sheet/thews-3.png);
+  background-image: url(https://raw.githubusercontent.com/alexgalli/on-mighty-thews/main/sheet/thews-8.png);
   background-color: white;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -19,10 +19,16 @@
 }
 
 .sheet-text {
-  width: 150px;
-  height: 140px;
+  width: 160px;
+  height: 236px;
   resize: none;
 }
+.sheet-bonus { height: 236px; }
+.sheet-injury { height: 65px; width: 180px; }
+textarea.sheet-injury-1 { top: 82px; }
+textarea.sheet-injury-2 { top: 168px; }
+textarea.sheet-injury-3 { top: 252px; }
+
 
 .sheet-die {
   width: 115px;
@@ -40,7 +46,7 @@
   opacity: 0;
 }
 
-.sheet-header    { top: 3px; }
+.sheet-header    { top: 1px; }
 .sheet-text      { top: 82px; }
 
 .sheet-row1      { top: 150px; }
